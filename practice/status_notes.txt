@@ -1,0 +1,7 @@
+Student Name: James Tuyizere
+
+What I check before committing:
+Before committing, I check git status to see which files have changed and whether there are unexpected files. I inspect the diff to understand exactly what I changed. I also make sure that only the files related to the current task are staged.
+
+What I am committing now and why:
+I am committing my inspect-before-commit habit because it documents the checks I will use before creating future commits. This keeps my commits focused and reduces the chance of accidentally committing unrelated changes.
