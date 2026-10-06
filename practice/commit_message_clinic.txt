@@ -1,0 +1,22 @@
+Student Name: James Tuyizere
+
+Weak message 1: updates
+Improved message 1:
+add Git workflow practice notes
+Why this is better:
+It clearly explains what was added instead of using a vague word like "updates".
+
+Weak message 2: final final
+Improved message 2:
+complete README Git habits section
+Why this is better:
+It describes the specific work completed and avoids unnecessary repetition.
+
+Weak message 3: stuff
+Improved message 3:
+add commit message examples
+Why this is better:
+It tells the reviewer exactly what kind of content was added.
+
+My personal commit message rule:
+I will start commit messages with a clear action word and describe the actual change. I will keep the message short but specific enough for another person to understand what the commit contains.
