@@ -1,0 +1,5 @@
+Full Name: James Tuyizere
+GitHub Username: jamestuyizere
+Date Started: October 6, 2026
+Auth Method: SSH
+One Git habit I want to improve: I want to inspect my changes carefully before every commit so that I only commit the files and changes I actually intended.
