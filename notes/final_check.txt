@@ -1,0 +1,12 @@
+Student Name: James Tuyizere
+GitHub Username: jamestuyizere
+Repository: SE103-Week6
+Repository URL: https://github.com/jamestuyizere/SE103-Week6
+
+Git habits I demonstrated this week:
+I practiced making smaller commits with one clear purpose instead of combining unrelated changes. I checked git status and inspected diffs before staging and committing my work. I staged only the files related to each task and reviewed the staged changes before committing. I also used a .gitignore file to prevent temporary files, log files, and sensitive files from being committed.
+
+One mistake-prevention habit I will keep:
+I will always inspect git status and the staged diff before committing. This will help me catch unintended files or changes before they become part of the repository history.
+
+All required files are on main: Yes
