@@ -1,0 +1,13 @@
+Student Name: James Tuyizere
+
+What changed:
+I added a section to the README explaining the Git habits I use to make my work more careful and organized. I also documented the changes in this self-review so a reviewer can understand what I changed.
+
+How I verified the change:
+I read the updated README and checked the Git status before staging. I also inspected the staged diff to confirm that only the intended README and self-review changes were included.
+
+One possible improvement a reviewer might suggest:
+A reviewer might suggest adding a short example showing how these Git habits helped prevent an accidental change from being committed. This could make the README more practical.
+
+Professional response I would give:
+I would thank the reviewer for the suggestion and consider adding a short example. I would make the change if it improves the README without making the section unnecessarily long.
